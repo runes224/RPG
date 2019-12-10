@@ -11,6 +11,6 @@ public class Main {
 
         PoisonMatango pm1 = new PoisonMatango('A');
         pm1.attack(h2);
-  
+        // テスト
     }
 }
